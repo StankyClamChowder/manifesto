@@ -1,6 +1,6 @@
-# unknownapp
+# V-aRt
 
-# Stanky Clams Manifesto
+# Team Manifesto
 
 # What to do if two or more members are in a disagreement?
 # Discuss as a group and if we don't come to a consensus, we do a majority vote. 
